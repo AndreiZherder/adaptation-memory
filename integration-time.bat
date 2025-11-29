@@ -1,3 +1,3 @@
 @echo off
-jupyter notebook integration_time.ipynb
+jupyter notebook integration-time.ipynb
 pause
